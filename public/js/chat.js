@@ -1,4 +1,4 @@
-socket = io()
+ socket = io()
 
 // DOM Variables
 $messageForm = document.querySelector("#message-form")
